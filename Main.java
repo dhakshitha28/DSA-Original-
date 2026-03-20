@@ -22,7 +22,7 @@ class Solution {
 class Main{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        Solution solution=new Solution();
+        SolutionReverse solution=new SolutionReverse();
         int n= sc.nextInt();
         System.out.println(solution.countDigits(n));
     }
