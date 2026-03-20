@@ -1,7 +1,7 @@
 package reverse;
 
 import java.util.Scanner;
-class SolutionReverse {
+public class SolutionReverse {
     public int reverseDigits(int n) {
         int result = 0;
 
@@ -14,7 +14,6 @@ class SolutionReverse {
         return result;
     }
 }
-
 class Reverse {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
