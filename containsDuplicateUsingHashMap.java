@@ -19,4 +19,3 @@ public class containsDuplicateUsingHashMap {
             return false;
         }
     }
-3
